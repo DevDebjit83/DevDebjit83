@@ -2,11 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=200&section=header&text=Hi%20👋,%20I'm%20Debjit%20Deb%20Barman&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff" />
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=A+Passionate+AI%2FML+and+Frontend+Developer;Building+Intelligent+Web+Applications;From+India+🇮🇳" alt="Typing SVG" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI%2FML+%26+Frontend+Developer;RCCIIT+Kolkata+Student;Building+Intelligent+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
 <br/>
 
